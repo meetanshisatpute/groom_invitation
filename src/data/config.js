@@ -58,7 +58,7 @@ export const t = {
   en: {
     tapToOpen: 'Tap to open',
     ganesh: '|| Shree Ganeshay Namah ||',
-    welcome: 'We are honored to welcome you to the wedding ceremony of',
+    welcome: "With the blessings of our elders and the love of our families, we invite you to share in our joyous celebration.",
     scroll: 'Scroll',
     blessing:
       'As they begin their journey together in faith and love, we thank you for being part of this blessed occasion.',
@@ -85,7 +85,7 @@ export const t = {
   hi: {
     tapToOpen: 'खोलने के लिए छुएँ',
     ganesh: '|| श्री गणेशाय नमः ||',
-    welcome: 'आपका हार्दिक स्वागत है, इस शुभ विवाह समारोह में',
+    welcome: "अपने बड़ों के आशीर्वाद और परिवारजनों के स्नेह के साथ, हम आपको अपने इस शुभ एवं मंगलमय विवाह उत्सव में सादर आमंत्रित करते हैं।",
     scroll: 'नीचे देखें',
     blessing:
       'प्रेम और विश्वास के साथ जीवन की नई यात्रा शुरू करते हुए, इस मंगल अवसर पर आपकी उपस्थिति के लिए हम आपके आभारी हैं।',
