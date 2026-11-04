@@ -1,11 +1,6 @@
 :root {
-  --navy: #1d3a6e;
-  --ink: #2a4a82;
-  --blue: #5c8bd0;
-  --sky: #a9c6ee;
-  --mist: #d9e7f8;
-  --pale: #f1f6fd;
-  --silver: #aab6c8;
+  --serif: 'Cormorant Garamond', 'Tiro Devanagari Hindi', Georgia, serif;
+  --script: 'Great Vibes', 'Tiro Devanagari Hindi', cursive;
   --serif: 'Cormorant Garamond', 'Tiro Devanagari Hindi', Georgia, serif;
   --script: 'Pinyon Script', 'Tiro Devanagari Hindi', cursive;
 

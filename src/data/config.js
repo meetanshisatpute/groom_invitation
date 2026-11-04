@@ -43,7 +43,7 @@ brideInfo: {
   music: '/music.mp3',
 
   // Optional couple photo: put a file at public/couple.jpg
-  photo: '/couple.jpg',
+  photo: '/couple.jpeg',
 
   events: [
     { id: 'matapujan', icon: 'diya', name: { en: 'Mata Pujan', hi: 'माता पूजन' }, date: DATE, time: { en: '8:00 AM', hi: 'सुबह ८:०० बजे' } },
