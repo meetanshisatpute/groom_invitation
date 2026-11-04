@@ -6,7 +6,7 @@ export default function Footer({ w, tx }) {
       <p className="serif-it">{tx.seeYou}</p>
       <p className="with-love">{tx.withLove}</p>
       <p className="foot-names">
-        {w.groom} <Heart size={15} /> {w.bride}
+        {w.groom} <Heart size={18} /> {w.bride}
       </p>
     </footer>
   )
